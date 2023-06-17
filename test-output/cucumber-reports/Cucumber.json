@@ -1,1 +1,89 @@
-[{"line":1,"elements":[{"start_timestamp":"2023-06-17T12:13:26.148Z","line":3,"name":"Einloggen auf einer Seite","description":"","id":"ein-versuch-für-mich;einloggen-auf-einer-seite","after":[{"result":{"duration":984368800,"status":"passed"},"match":{"location":"stepdefs.Hooks.aTest()"}}],"type":"scenario","keyword":"Scenario","steps":[{"result":{"duration":3514600600,"status":"passed"},"line":4,"name":"Benutzer geht auf \"https://opencart.abstracta.us/\"","match":{"arguments":[{"val":"\"https://opencart.abstracta.us/\"","offset":18}],"location":"stepdefs.MeineStepdefs.benutzerGehtAuf(java.lang.String)"},"keyword":"Given "},{"result":{"duration":1166880000,"status":"passed"},"line":5,"name":"Benutzer loggt sich ein","match":{"location":"stepdefs.MeineStepdefs.benutzerLoggtSichEin()"},"keyword":"When "},{"result":{"duration":57845900,"status":"passed"},"line":6,"name":"Benutzer ist auf der Startseite","match":{"location":"stepdefs.MeineStepdefs.benutzerIstAufDerStartseite()"},"keyword":"Then "},{"result":{"duration":3010946300,"status":"passed"},"line":7,"name":"Warten zum Ansehen","match":{"location":"stepdefs.MeineStepdefs.wartenZumAnsehen()"},"keyword":"Then "}]}],"name":"Ein Versuch für mich","description":"","id":"ein-versuch-für-mich","keyword":"Feature","uri":"file:src/test/resources/features/versuch.feature","tags":[]}]
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-06-17T12:13:26.148Z",
+        "line": 3,
+        "name": "Einloggen auf einer Seite",
+        "description": "",
+        "id": "ein-versuch-für-mich;einloggen-auf-einer-seite",
+        "after": [
+          {
+            "result": {
+              "duration": 984368800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefs.Hooks.aTest()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3514600600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Benutzer geht auf \"https://opencart.abstracta.us/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://opencart.abstracta.us/\"",
+                  "offset": 18
+                }
+              ],
+              "location": "stepdefs.MeineStepdefs.benutzerGehtAuf(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1166880000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Benutzer loggt sich ein",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.benutzerLoggtSichEin()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 57845900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Benutzer ist auf der Startseite",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.benutzerIstAufDerStartseite()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3010946300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Warten zum Ansehen",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.wartenZumAnsehen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Ein Versuch für mich",
+    "description": "",
+    "id": "ein-versuch-für-mich",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/versuch.feature",
+    "tags": []
+  }
+]
