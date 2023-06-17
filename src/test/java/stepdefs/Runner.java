@@ -8,7 +8,9 @@ import io.cucumber.testng.CucumberOptions;
         features = {"src/test/resources/features"},
         glue = {"stepdefs"},
         plugin = {"pretty",
-                "json:test-output/cucumber-reports/cucumber.json"
+                "json:test-output/cucumber-reports/cucumber.json",
+                "html: test-output/cucumber-reports/cucumberreport.html",
+                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
         }
 )
 

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="änderung6">
+    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="änderung7">
+      <change afterPath="$PROJECT_DIR$/test-output/cucumber-reports/cucumberreport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/cucumber-reports/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/cucumber-reports/cucumber.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687007309641</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="änderung7">
+      <created>1687007635854</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687007635855</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +211,7 @@
     <MESSAGE value="änderung3" />
     <MESSAGE value="änderung4" />
     <MESSAGE value="änderung6" />
-    <option name="LAST_COMMIT_MESSAGE" value="änderung6" />
+    <MESSAGE value="änderung7" />
+    <option name="LAST_COMMIT_MESSAGE" value="änderung7" />
   </component>
 </project>
