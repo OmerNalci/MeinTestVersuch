@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="änderung4">
-      <change afterPath="$PROJECT_DIR$/test-output/cucumber-reports/Cucumber.json" afterDir="false" />
-    </list>
+    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="änderung5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
