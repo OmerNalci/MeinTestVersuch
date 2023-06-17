@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="Mein Versuch für Jenkins">
+    <list default="true" id="1e5cca44-9722-46f0-a62d-a1f79128fa01" name="Changes" comment="Änderung json">
+      <change afterPath="$PROJECT_DIR$/test-output/cucumber-reports/Cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/datafiles/Furmich.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefs/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefs/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686997363882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Änderung json">
+      <created>1686999159527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686999159527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mein Versuch für Jenkins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mein Versuch für Jenkins" />
+    <MESSAGE value="Änderung json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Änderung json" />
   </component>
 </project>
