@@ -6,10 +6,10 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
         features = {"src/test/resources/features"},
-        glue = {"stepdefs"},
-        plugin = {"pretty",
+        glue = {"stepdefs"}
+        /*plugin = {"pretty",
                 "json:test-output/cucumber-reports/Cucumber.json"
-        }
+        }*/
 )
 
 
