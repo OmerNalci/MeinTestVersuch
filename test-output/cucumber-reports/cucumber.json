@@ -1,0 +1,89 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-06-17T13:40:22.273Z",
+        "line": 3,
+        "name": "Einloggen auf einer Seite",
+        "description": "",
+        "id": "ein-versuch-für-mich;einloggen-auf-einer-seite",
+        "after": [
+          {
+            "result": {
+              "duration": 1112026500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepdefs.Hooks.aTest()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4300499300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Benutzer geht auf \"https://opencart.abstracta.us/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://opencart.abstracta.us/\"",
+                  "offset": 18
+                }
+              ],
+              "location": "stepdefs.MeineStepdefs.benutzerGehtAuf(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1247663900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Benutzer loggt sich ein",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.benutzerLoggtSichEin()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61833800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Benutzer ist auf der Startseite",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.benutzerIstAufDerStartseite()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3002968700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Warten zum Ansehen",
+            "match": {
+              "location": "stepdefs.MeineStepdefs.wartenZumAnsehen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Ein Versuch für mich",
+    "description": "",
+    "id": "ein-versuch-für-mich",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/versuch.feature",
+    "tags": []
+  }
+]
